@@ -1,0 +1,25 @@
+FUENTES TIPOGRÁFICAS DE LA MARCA:
+
+Arsenal-Bold
+Arsenal-BoldItalic
+Arsenal-Italic
+Arsenal-Regular
+
+ArsenalSC-Bold
+ArsenalSC-BoldItalic
+ArsenalSC-Italic
+ArsenalSC-Regular
+
+Athena-Regular (Uso personal, no destinado a publicaciones)
+
+BodoniFragileDirt
+BodoniFragileRough
+BodoniFragileSharp
+
+Caprasimo-Regular
+
+coolvetica compressed hv
+coolvetica condensed rg
+coolvetica crammed rg
+coolvetica rg it
+coolvetica rg
